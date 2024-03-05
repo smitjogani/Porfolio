@@ -230,7 +230,7 @@ export default function Home() {
                 <form
                   method="post"
                   action="https://getform.io/f/f4290cc6-d733-4961-af54-4dfbf4f182b7"
-                  className="flex flex-col w-full md:w-1/2 dark:text-black"
+                  className="flex flex-col w-full dark:text-black"
                 >
                   <input
                     type="text"
