@@ -49,14 +49,14 @@ export default function Home() {
                   className="cursor-pointer text-2xl"
                 />
               </li>
-              <li>
-                <a
-                  className=" bg-blue-500 text-slate-100 text-right px-4 py-2 rounded-md ml-8"
-                  href="/cv2.pdf"
-                >
-                  Resume
-                </a>
-              </li>
+              // <li>
+              //   <a
+              //     className=" bg-blue-500 text-slate-100 text-right px-4 py-2 rounded-md ml-8"
+              //     href=""
+              //   >
+              //     Resume
+              //   </a>
+              // </li>
             </ul>
           </nav>
 
